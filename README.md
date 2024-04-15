@@ -2,8 +2,7 @@
 
 2D gamified portfolio coded using Kaboom.js library
 
-<img src="img/1.jpeg" width="280px" />
-<img src="img/2.jpeg" width="360px" />
+<img src="img/1.jpeg" width="280px" /> <img src="img/2.jpeg" width="360px" />
 
 ## Tools & Resources
 
